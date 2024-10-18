@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -66,7 +68,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-people .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-name','listing-subtitle','listing-photo','listing-bio',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-name","listing-subtitle","listing-photo","listing-bio"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-people'] = new List('listing-people', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -149,7 +209,101 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><em>Coming soon!</em></p>
+<div id="listing-people" class="quarto-listing quarto-listing-container-custom">
+
+    <div class="person grid">
+        <div class="g-col-12 g-col-md-2 person-photo">
+            
+                <img class="card card-md w-100" src="chitra.jpg">
+            
+        </div>
+        <div class="g-col-12 g-col-md-10 member-details">
+            <h4 class="anchored">Chitra</h4>
+            <p class="person-subtitle">Autism/Teaching-Learning/People/Kitchen</p>
+
+            
+
+            <p>Chitra is excited about bringing together Autism and nature,
+ABA therapy and the broader teaching - learning practice.
+She is a Board Certified Assistant Behavior Analyst, and has
+about a decade of personal and professional experience working
+in the autism and teaching space. She brings the various aspects
+of Farm Hill together, participating in everything and guiding
+everyone and generally ensuring the team is good and working well.
+
+            </p>
+        </div>
+    </div>
+
+    <div class="person grid">
+        <div class="g-col-12 g-col-md-2 person-photo">
+            
+                <img class="card card-md w-100" src="ganesan.jpg">
+            
+        </div>
+        <div class="g-col-12 g-col-md-10 member-details">
+            <h4 class="anchored">Ganesan</h4>
+            <p class="person-subtitle">Buildings/Facilities/Craft</p>
+
+            
+
+            <p>At Farm Hill, we used brick, stone and earth to build most of the spaces.
+Ganesan is the master mason instrumental in planning and building them.
+In addition to building, he takes care of all the infrastructure and
+facilities at Farm Hill. He is an enthusiastic craftsman and the community
+learns a lot from him.
+
+            </p>
+        </div>
+    </div>
+
+    <div class="person grid">
+        <div class="g-col-12 g-col-md-2 person-photo">
+            
+                <img class="card card-md w-100" src="geethika.jpg">
+            
+        </div>
+        <div class="g-col-12 g-col-md-10 member-details">
+            <h4 class="anchored">Geethika</h4>
+            <p class="person-subtitle">Teaching-Learning/Garden/Craft/Kitchen</p>
+
+            
+
+            <p>Geethika is a natural at Farm Hill, having grown up in an alternative learning space herself. She works with the primary group, runs the gardening and craft classes, and manages the kitchen and the stores. She holds together the day-to-day community functioning and is very skilled with her hands.
+
+            </p>
+        </div>
+    </div>
+
+<style type="text/css">
+.person {
+    background: #f0f0f0;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px 0px;
+}
+
+.person h4 {
+    margin: 0px !important;
+}
+.person image {
+    background-clip: border-box;
+    border-radius: 0.75em;
+}
+
+.person-subtitle {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+</style>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<p>v15</p>
+
 
 
 
