@@ -1,1 +1,1 @@
-Sitemap: https://farmhill-learning.github.io/farmhill-learning.org/sitemap.xml
+Sitemap: https://new.farmhill-learning.org/sitemap.xml
