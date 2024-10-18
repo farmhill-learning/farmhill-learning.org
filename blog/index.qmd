@@ -1,5 +1,9 @@
 ---
 title: Blog
+listing:
+  contents: "*/index.qmd"
+  sort: "date desc"
+  type: grid
+  categories: true
 ---
 
-_Coming soon!_
