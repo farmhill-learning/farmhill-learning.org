@@ -2,14 +2,14 @@
 ```{=html}
 
 <% for (const item of items) { %>
-    <div class="person grid">
-        <div class="g-col-12 g-col-md-2 person-photo">
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
             <% if (item.photo) { %>
-                <img class="card card-md w-100" src="<%= item.photo %>">
+                <img class="square-image w-100" src="<%= item.photo %>">
             <% } %>
         </div>
-        <div class="g-col-12 g-col-md-10">
-            <div class="person-header">
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
                 <h4><%= item.name %></h4>
                 <div class="person-subtitle"><%= item.subtitle %></div>
 
@@ -24,25 +24,28 @@
             </p>
         </div>
     </div>
-
 <% } %>
-
 
 <style type="text/css">
 .person {
     background: #f0f0f0;
     padding: 20px;
-    border-radius: 20px;
     margin: 20px 0px;
+    /* border: 1px solid #ddd; */
 }
 
 .person h4 {
     margin: 0px !important;
 }
-.person image {
-    background-clip: border-box;
-    border-radius: 0.75em;
+
+.person-photo {
+    margin: -20px;
 }
+
+/* .person img {
+    background-clip: border-box;
+    border-radius: 50%;
+} */
 
 .person-subtitle {
     font-style: italic;
@@ -52,6 +55,14 @@
 .person-header {
     margin-bottom: 10px;
 }
+
+/*
+@media (max-width: 576px) {
+    .person-header {
+        text-align: center;
+    }
+}
+*/
 
 </style>
 ```
