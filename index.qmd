@@ -1,0 +1,31 @@
+---
+title: "Farm Hill Learning Community"
+subtitle: We are a neurodiverse community of children and adults, learning together in a close to nature setting.
+page-layout: full
+# title-block-banner: images/banner.jpg
+---
+
+
+::: {.grid}
+
+::: {.g-col-4}
+### Subodha
+
+about subodha
+:::
+
+::: {.g-col-4}
+### Farmhill
+
+about Farmhill
+:::
+
+
+::: {.g-col-4}
+### Sambhavam
+
+about Sambhavam
+:::
+
+:::
+

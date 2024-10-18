@@ -1,0 +1,35 @@
+#
+# Quarto configuration file
+#
+#
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - gallery/*/*.qmd
+
+website:
+  title: "Farm Hill Learning"
+  navbar:
+    background: primary
+    left:
+      - about.qmd
+    tools:
+      - icon: whatsapp
+        href: "https://wa.me/918431032239?text=I%27m+interested+to+know+more+about+Farmhill."
+      - icon: instagram
+        href: "https://www.instagram.com/farmhill.learning"
+      - icon: facebook
+        href: https://facebook.com/farmhilllearning
+
+format:
+  html:
+    theme:
+      - cosmo
+      - theme.scss
+    css: styles.css
+    page-footer:
+      right: |
+        Made with [Quarto](https://quarto.org/)
+
+
