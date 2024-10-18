@@ -1,6 +1,5 @@
 ---
 title: "About"
-page-layout: full
 ---
 
 About this site

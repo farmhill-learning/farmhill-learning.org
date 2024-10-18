@@ -6,6 +6,7 @@ project:
   type: website
   render:
     - "*.qmd"
+    - "*/*.qmd"
     - gallery/*/*.qmd
 
 website:
@@ -13,7 +14,11 @@ website:
   navbar:
     background: primary
     left:
-      - about.qmd
+      - people/index.qmd
+      - gallery/index.qmd
+      - support-us/index.qmd
+      - about/index.qmd
+      - contact/index.qmd
     tools:
       - icon: whatsapp
         href: "https://wa.me/918431032239?text=I%27m+interested+to+know+more+about+Farmhill."
@@ -24,6 +29,7 @@ website:
 
 format:
   html:
+    page-layout: full
     theme:
       - cosmo
       - theme.scss
