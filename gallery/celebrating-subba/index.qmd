@@ -1,0 +1,44 @@
+---
+title: Celebrating Subba
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: Apr 2024
+date-format: "MMM YYYY"
+image: photos/008.jpg
+---
+
+Pictures from Celebrating Subba event held at Farmhill Learning.
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+![](photos/001.jpg){group="my-gallery"}
+
+![](photos/002.jpg){group="my-gallery"}
+
+![](photos/003.jpg){group="my-gallery"}
+
+![](photos/004.jpg){group="my-gallery"}
+
+![](photos/005.jpg){group="my-gallery"}
+
+![](photos/006.jpg){group="my-gallery"}
+
+![](photos/007.jpg){group="my-gallery"}
+
+![](photos/008.jpg){group="my-gallery"}
+
+![](photos/009.jpg){group="my-gallery"}
+
+![](photos/010.jpg){group="my-gallery"}
+
+![](photos/011.jpg){group="my-gallery"}
+
+![](photos/012.jpg){group="my-gallery"}
+
+![](photos/013.jpg){group="my-gallery"}
+
+![](photos/014.jpg){group="my-gallery"}
+
+:::

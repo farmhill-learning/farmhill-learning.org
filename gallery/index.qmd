@@ -1,3 +1,11 @@
-# Gallery
+---
+title: Gallery
+listing:
+  contents:
+    - "*/index.qmd"
+  type: grid
+  sort:
+    - "date"
+  date-format: "MMM YYYY"
+---
 
-_Coming soon!_
