@@ -8,15 +8,17 @@
                 <img class="card card-md w-100" src="<%= item.photo %>">
             <% } %>
         </div>
-        <div class="g-col-12 g-col-md-10 member-details">
-            <h4><%= item.name %></h4>
-            <p class="person-subtitle"><%= item.subtitle %></p>
+        <div class="g-col-12 g-col-md-10">
+            <div class="person-header">
+                <h4><%= item.name %></h4>
+                <div class="person-subtitle"><%= item.subtitle %></div>
 
-            <% if (item.linkedin) { %>
-                <div class="linkedin-link">
-                    <a href="<%= item.linkedin %>" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
-                </div>
-            <% } %>
+                <% if (item.linkedin) { %>
+                    <div class="linkedin-link">
+                        <a href="<%= item.linkedin %>" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+                    </div>
+                <% } %>
+            </div>
 
             <p><%= item.bio %>
             </p>
@@ -45,6 +47,9 @@
 .person-subtitle {
     font-style: italic;
     color: #666;
+}
+
+.person-header {
     margin-bottom: 10px;
 }
 
