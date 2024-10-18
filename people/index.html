@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-name','listing-subtitle','listing-photo','listing-bio',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-name','listing-subtitle','listing-photo','listing-linkedin','listing-bio',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-name","listing-subtitle","listing-photo","listing-bio"],
+      searchColumns: ["listing-name","listing-subtitle","listing-photo","listing-linkedin","listing-bio"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -217,11 +217,17 @@ window.Quarto = {
                 <img class="card card-md w-100" src="chitra.jpg">
             
         </div>
-        <div class="g-col-12 g-col-md-10 member-details">
-            <h4 class="anchored">Chitra</h4>
-            <p class="person-subtitle">Autism/Teaching-Learning/People/Kitchen</p>
+        <div class="g-col-12 g-col-md-10">
+            <div class="person-header">
+                <h4 class="anchored">Chitra</h4>
+                <div class="person-subtitle">Autism/Teaching-Learning/People/Kitchen</div>
 
-            
+                
+                    <div class="linkedin-link">
+                        <a href="https://www.linkedin.com/in/chithra-seshadri-249a9b59/" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+                    </div>
+                
+            </div>
 
             <p>Chitra is excited about bringing together Autism and nature,
 ABA therapy and the broader teaching - learning practice.
@@ -241,11 +247,13 @@ everyone and generally ensuring the team is good and working well.
                 <img class="card card-md w-100" src="ganesan.jpg">
             
         </div>
-        <div class="g-col-12 g-col-md-10 member-details">
-            <h4 class="anchored">Ganesan</h4>
-            <p class="person-subtitle">Buildings/Facilities/Craft</p>
+        <div class="g-col-12 g-col-md-10">
+            <div class="person-header">
+                <h4 class="anchored">Ganesan</h4>
+                <div class="person-subtitle">Buildings/Facilities/Craft</div>
 
-            
+                
+            </div>
 
             <p>At Farm Hill, we used brick, stone and earth to build most of the spaces.
 Ganesan is the master mason instrumental in planning and building them.
@@ -263,11 +271,13 @@ learns a lot from him.
                 <img class="card card-md w-100" src="geethika.jpg">
             
         </div>
-        <div class="g-col-12 g-col-md-10 member-details">
-            <h4 class="anchored">Geethika</h4>
-            <p class="person-subtitle">Teaching-Learning/Garden/Craft/Kitchen</p>
+        <div class="g-col-12 g-col-md-10">
+            <div class="person-header">
+                <h4 class="anchored">Geethika</h4>
+                <div class="person-subtitle">Teaching-Learning/Garden/Craft/Kitchen</div>
 
-            
+                
+            </div>
 
             <p>Geethika is a natural at Farm Hill, having grown up in an alternative learning space herself. She works with the primary group, runs the gardening and craft classes, and manages the kitchen and the stores. She holds together the day-to-day community functioning and is very skilled with her hands.
 
@@ -294,6 +304,9 @@ learns a lot from him.
 .person-subtitle {
     font-style: italic;
     color: #666;
+}
+
+.person-header {
     margin-bottom: 10px;
 }
 
@@ -302,7 +315,6 @@ learns a lot from him.
 No matching items
 </div>
 </div>
-<p>v15</p>
 
 
 
