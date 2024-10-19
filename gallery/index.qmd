@@ -7,6 +7,8 @@ listing:
   sort:
     - "date desc"
   date-format: "MMM YYYY"
+image: preview.jpg
+description: "Life at Farmhill in pictures!"
 ---
 
 Life at Farmhill in pictures!
