@@ -11,6 +11,8 @@ project:
 
 website:
   title: "Farm Hill Learning"
+  open-graph: true
+  twitter-card: true
   navbar:
     background: primary
     left:
