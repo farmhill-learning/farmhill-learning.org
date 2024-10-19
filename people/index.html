@@ -211,14 +211,14 @@ window.Quarto = {
 
 <div id="listing-people" class="quarto-listing quarto-listing-container-custom">
 
-    <div class="person grid">
-        <div class="g-col-12 g-col-md-2 person-photo">
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
             
-                <img class="card card-md w-100" src="chitra.jpg">
+                <img class="square-image w-100" src="chitra.jpg">
             
         </div>
-        <div class="g-col-12 g-col-md-10">
-            <div class="person-header">
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
                 <h4 class="anchored">Chitra</h4>
                 <div class="person-subtitle">Autism/Teaching-Learning/People/Kitchen</div>
 
@@ -241,14 +241,14 @@ everyone and generally ensuring the team is good and working well.
         </div>
     </div>
 
-    <div class="person grid">
-        <div class="g-col-12 g-col-md-2 person-photo">
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
             
-                <img class="card card-md w-100" src="ganesan.jpg">
+                <img class="square-image w-100" src="ganesan.jpg">
             
         </div>
-        <div class="g-col-12 g-col-md-10">
-            <div class="person-header">
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
                 <h4 class="anchored">Ganesan</h4>
                 <div class="person-subtitle">Buildings/Facilities/Craft</div>
 
@@ -265,14 +265,14 @@ learns a lot from him.
         </div>
     </div>
 
-    <div class="person grid">
-        <div class="g-col-12 g-col-md-2 person-photo">
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
             
-                <img class="card card-md w-100" src="geethika.jpg">
+                <img class="square-image w-100" src="geethika.jpg">
             
         </div>
-        <div class="g-col-12 g-col-md-10">
-            <div class="person-header">
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
                 <h4 class="anchored">Geethika</h4>
                 <div class="person-subtitle">Teaching-Learning/Garden/Craft/Kitchen</div>
 
@@ -289,17 +289,22 @@ learns a lot from him.
 .person {
     background: #f0f0f0;
     padding: 20px;
-    border-radius: 20px;
     margin: 20px 0px;
+    /* border: 1px solid #ddd; */
 }
 
 .person h4 {
     margin: 0px !important;
 }
-.person image {
-    background-clip: border-box;
-    border-radius: 0.75em;
+
+.person-photo {
+    margin: -20px;
 }
+
+/* .person img {
+    background-clip: border-box;
+    border-radius: 50%;
+} */
 
 .person-subtitle {
     font-style: italic;
@@ -309,6 +314,14 @@ learns a lot from him.
 .person-header {
     margin-bottom: 10px;
 }
+
+/*
+@media (max-width: 576px) {
+    .person-header {
+        text-align: center;
+    }
+}
+*/
 
 </style>
 <div class="listing-no-matching d-none">
