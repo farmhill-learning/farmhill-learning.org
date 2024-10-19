@@ -1,0 +1,23 @@
+---
+title: Sankhupushpi
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: Jan 2023
+date-format: "MMM YYYY"
+image: photos/003.jpg
+---
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+
+![](photos/001.jpg){group="my-gallery"}
+
+![](photos/002.jpg){group="my-gallery"}
+
+![](photos/003.jpg){group="my-gallery"}
+
+![](photos/004.jpg){group="my-gallery"}
+
+:::

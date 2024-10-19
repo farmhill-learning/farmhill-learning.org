@@ -5,7 +5,8 @@ listing:
     - "*/index.qmd"
   type: grid
   sort:
-    - "date"
+    - "date desc"
   date-format: "MMM YYYY"
 ---
 
+Life at Farmhill in pictures!
