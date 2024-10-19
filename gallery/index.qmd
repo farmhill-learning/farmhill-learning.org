@@ -10,5 +10,3 @@ listing:
 image: preview.jpg
 description: "Life at Farmhill in pictures!"
 ---
-
-Life at Farmhill in pictures!
