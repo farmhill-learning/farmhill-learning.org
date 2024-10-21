@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/join-us-as-a-teacher-learner/index.html"
+    ]
+  },
+  {
     "listing": "/gallery/index.html",
     "items": [
       "/gallery/sand-castles-2024/index.html",
@@ -16,12 +22,6 @@
       "/gallery/spring-2021/index.html",
       "/gallery/rain-2020/index.html",
       "/gallery/farmhill-2019/index.html"
-    ]
-  },
-  {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/join-us-as-a-teacher-learner/index.html"
     ]
   },
   {
