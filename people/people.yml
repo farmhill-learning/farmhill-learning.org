@@ -1,3 +1,18 @@
+
+- name: Chandu
+  subtitle: Autism/Teaching-Learning/Sports/Travelling
+  photo: chandu.jpg  
+  bio: |
+    Chandu is a powerhouse of energy and enthusiasm. He works with the autism group, he is also 
+    the go to person for treks and sports. He is the official photographer and a knowledge resource 
+    for everything to do with photos, videos, editing and social media. He is fond of taking time off 
+    periodically to travel, connecting farm hill to various networks in the process. Chandu has a masters 
+    degree in psychology. He wants to travel the world and we are all for that! 
+    
+
+
+
+
 - name: Chitra
   subtitle: Autism/Teaching-Learning/People/Kitchen
   photo: chitra.jpg
@@ -31,8 +46,27 @@
     She holds together the day-to-day community functioning 
     and is very skilled with her hands.
 
+- name: Nishanth
+  subtitle: Teaching-Learning/Sports
+  photo: nishanth.jpg
+  bio: |
+    Nishanth is as comfortable kicking around ideas, as he is with footballs.
+    He brings equal enthusiasm to science classes and morning exercise sessions. He loves food, 
+    can make a mean rasam, and desserts are his favorite course. 
+    He has a Bachelors degree in education and Biology from APU.
+    He is also the default driver on long drives!
+
+
+- name: Praveena
+  subtitle: Teaching-Learning/Parenting/Math
+  photo: praveena.jpg
+  bio: |
+    Praveena is a parent and an enthusiastic teacher/learner focused on mathematics. 
+    She has a degree in Engineering and a diploma in early childhood education from APU. 
+    Her constant curiosity and willingness to keep learning are assets to herself and the team. 
+
 - name: Venu
-  subtitle: Teaching/Writing/Gyan
+  subtitle: Teaching-learning/Writing/Gyan
   photo: venu.jpg
   linkedin: https://www.linkedin.com/in/venugvgk/
   bio: |
@@ -43,3 +77,6 @@
     He has a couple of decades of experience in teaching, mentoring and management. 
     He enjoys reading, writing, posting pictures of everything to 
     facebook/instagram and walking around, looking at the plants. 
+
+
+
