@@ -21,6 +21,7 @@ website:
       - gallery/index.qmd
       - support-us/index.qmd
       - about/index.qmd
+      - join-us/index.qmd
       - contact/index.qmd
     tools:
       - icon: whatsapp
