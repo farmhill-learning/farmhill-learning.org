@@ -1,7 +1,9 @@
 ---
 title: Education and Farming 
-subtitle: Education and Farming 
+subtitle: It's natural for plants to grow and humans to learn. Why do we then struggle so much to educate? 
 date: 2022-04-14
+categories:
+  - learning
 author: Venu GVGK
 page-layout: article
 ---

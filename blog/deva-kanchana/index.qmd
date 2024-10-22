@@ -1,7 +1,9 @@
 ---
 title: Deva Kanchana 
-subtitle: Deva Kanchana 
+subtitle: A beautiful flower, with medicinal properties!
 date: 2021-10-19
+categories:
+  - gardening
 author: Venu GVGK
 page-layout: article
 ---

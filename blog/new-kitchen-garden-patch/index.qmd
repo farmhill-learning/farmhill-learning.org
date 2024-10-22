@@ -1,7 +1,9 @@
 ---
 title: New Kitchen Garden Patch
-subtitle: New Kitchen Garden Patch
+subtitle: Planting plan and layout of the new garden patch
 date: 2022-01-20
+categories:
+  - gardening
 author: Venu GVGK
 page-layout: article
 ---

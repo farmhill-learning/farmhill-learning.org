@@ -1,7 +1,9 @@
 ---
 title: A friend in the neighborhood 
-subtitle: A friend in the neighborhood 
+subtitle: Maram oru varam - a tree is a gift!
 date: 2022-04-15
+categories:
+  - general
 author: Venu GVGK
 page-layout: article
 ---

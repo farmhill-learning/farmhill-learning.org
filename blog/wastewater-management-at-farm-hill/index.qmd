@@ -1,7 +1,9 @@
 ---
 title: Wastewater Management At Farm Hill
-subtitle: Wastewater Management At Farm Hill
+subtitle: Our 10th grader wrote this as part of an assignment on wastewater management. I hope you agree our experiments with toilets are interesting!
 date: 2022-03-01
+categories:
+  - sustainability
 author: Venu GVGK
 page-layout: article
 ---

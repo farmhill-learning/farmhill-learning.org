@@ -1,7 +1,9 @@
 ---
 title: Ganesha 2023
-subtitle: Ganesha 2023
+subtitle: We made our own Ganesha murtis out of clay, and guess how many flowers we found on farm hill! 
 date: 2023-09-18
+categories:
+  - general
 author: Venu GVGK
 page-layout: article
 ---

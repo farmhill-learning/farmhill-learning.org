@@ -1,7 +1,9 @@
 ---
 title: Visit to Janapada Seva Trust, Melukote
-subtitle: Visit to Janapada Seva Trust, Melukote
+subtitle: We visit Janapada Seva Trust, Melukote and stay at Hosa Jeevana Daari. Get an introduction to livelihood training. 
 date: 2022-05-15
+categories:
+  - travel
 author: Venu GVGK
 page-layout: article
 ---

@@ -1,7 +1,9 @@
 ---
 title: Toad Tussle
-subtitle: Toad Tussle
+subtitle:  A toad and I tussle between a rock and a cool place...
 date: 2019-05-05
+categories:
+  - general
 author: Venu GVGK
 page-layout: article
 ---

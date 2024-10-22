@@ -1,7 +1,9 @@
 ---
 title: Sundried onion masala balls
-subtitle: Sundried onion masala balls
+subtitle: We make sundried onion masala balls for the first time. Recipe included. 
 date: 2021-05-06
+categories:
+  - food
 author: Venu GVGK
 page-layout: article
 ---

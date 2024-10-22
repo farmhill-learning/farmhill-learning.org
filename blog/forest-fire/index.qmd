@@ -1,7 +1,9 @@
 ---
 title: Forest Fire!
-subtitle: Forest Fire!
+subtitle: We fought a forest fire that was spreading to the campus and learnt a few lessons. 
 date: 2021-04-14
+categories:
+  - general
 author: Venu GVGK
 page-layout: article
 ---

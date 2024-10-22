@@ -1,7 +1,9 @@
 ---
 title: Creamy Peacock Flower Tree - White Gulmohar
-subtitle: Creamy Peacock Flower Tree - White Gulmohar
+subtitle: We meet another majestic tree in the neighbourhood. White Gulmohar!
 date: 2020-04-17
+categories:
+  - general
 author: Venu GVGK
 page-layout: article
 ---

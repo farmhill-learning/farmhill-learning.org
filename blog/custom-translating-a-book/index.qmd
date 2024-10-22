@@ -1,7 +1,9 @@
 ---
 title: Custom translating a book
-subtitle: Custom translating a book
+subtitle: ...And every day, Avi would open the picture book, look at the pictures and point out that it is in Telugu, which he can't read. 
 date: 2021-01-22
+categories:
+  - writing
 author: Venu GVGK
 page-layout: article
 ---

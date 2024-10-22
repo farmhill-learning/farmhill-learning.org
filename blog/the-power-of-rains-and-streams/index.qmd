@@ -1,7 +1,9 @@
 ---
 title: The power of rains and streams
-subtitle: The power of rains and streams
+subtitle: How much water flows in a stream in an hour?
 date: 2022-11-25
+categories:
+  - sustainability
 author: Venu GVGK
 page-layout: article
 ---

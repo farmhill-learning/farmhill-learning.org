@@ -1,7 +1,9 @@
 ---
 title: Golden chain tree
-subtitle: Golden chain tree
+subtitle: We meet a beautiful medicinal tree!
 date: 2020-04-25
+categories:
+  - general
 author: Venu GVGK
 page-layout: article
 ---

@@ -1,7 +1,9 @@
 ---
 title: Seeds go from place to place!
-subtitle: Seeds go from place to place!
+subtitle: At Farm Hill, primary school is all about observation and exploration - here is an instance of the same!
 date: 2023-02-15
+categories:
+  - learning
 author: Venu GVGK
 page-layout: article
 ---

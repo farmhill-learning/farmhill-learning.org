@@ -1,7 +1,9 @@
 ---
 title: Children in lockdown 
-subtitle: Children in lockdown 
+subtitle: One of our 6 year olds, missing Farm Hill in the lockdown....
 date: 2020-05-06
+categories:
+  - general
 author: Venu GVGK
 page-layout: article
 ---

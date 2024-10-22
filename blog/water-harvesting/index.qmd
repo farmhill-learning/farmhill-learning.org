@@ -1,7 +1,9 @@
 ---
 title: Water Harvesting 
-subtitle: Water Harvesting 
+subtitle: We live in a rain shadow region, so a sustainable approach to water management has to include rain water harvesting and tapping the shallow aquifer, along with a bore well. 
 date: 2021-11-17
+categories:
+  - sustainability
 author: Venu GVGK
 page-layout: article
 ---

@@ -1,7 +1,9 @@
 ---
 title: Middle School Poetry
-subtitle: Middle School Poetry
+subtitle: A poem our 11 year olds wrote in their English class, on the lines of "That's what Bilbo Baggins hates!"
 date: 2021-03-26
+categories:
+  - learning
 author: Venu GVGK
 page-layout: article
 ---

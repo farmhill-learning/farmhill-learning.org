@@ -1,7 +1,9 @@
 ---
 title: Visit to a farm in a rain shadow area
-subtitle: Visit to a farm in a rain shadow area
+subtitle: We visit a friend's farm in a rain shadow area and learn about sustainability 
 date: 2022-05-17
+categories:
+  - sustainability
 author: Venu GVGK
 page-layout: article
 ---
