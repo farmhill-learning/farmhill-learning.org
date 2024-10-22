@@ -1,5 +1,79 @@
 ---
 title: "Support Us"
+page-layout: full
 ---
 
-_Coming Soon!_
+A project of this size and scope is possible only with the involvement, engagement and support of many, many people. If you are enthusiastic about the ideas we are working with, here is how you can support us.
+
+## Support Financially
+
+We are a registered educational trust, and your contributions will be Income Tax exempt under the section 80G.
+
+The easiest way to contribute to Farm Hill is using the _Pay Instantly_ using Razorpay.
+
+```{=html}
+<form>
+    <script
+        src="https://checkout.razorpay.com/v1/payment-button.js"
+        data-payment_button_id="pl_Ilw14DMUCtkctW"
+        async> </script>
+</form>
+```
+
+You can also contribute by transfer directly to our bank account or by making an UPI transfer.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+**Pay with UPI**
+
+![](qrcode.jpg){.qrcode}
+
+Please note UPI ID shows up as `venugvgk@yesbank` as that is the username for the trust account.
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+**Transfer to Our Bank Account**
+
+Bank Account Details:
+
+Account name: Farm Hill Education Trust<br>
+Account number: 041588700000083<br>
+Account type : current account – trust<br>
+Bank and Branch: Yes Bank, bannerghatta road, Bangalore<br>
+IFSC: YESB0000415
+:::
+
+:::
+
+### Why should you support us?
+
+We aim to be operationally self-sufficient through contributions of active members of the Farm Hill Community. However, this is not always possible due to a few reasons.
+
+1. We are a small community and we have not yet reached the optimum size where we can fully meet the operations costs.
+
+2. We believe that people interested in joining the community should be able to join irrespective of their ability to contribute financially, which means we often end up with a deficit budget.
+
+3. Farm Hill Education Trust has committed to build Subodha Learning Community, located in Bangalore, to better reach underserved populations.
+
+4. The community is still very young. We are still incurring capital expenses for infrastructure, which cannot be met except for contributions from the larger community of friends and supporters.
+
+
+## Engage with us
+
+ Visit us, write to us, call us. Come stay/work with us for sometime. And any other ways you want to engage. Let’s talk to each other, walk with each other and draw strength from each other.
+
+::: {.text-center}
+![](mud-hands-together.jpg){.medium-image}
+:::
+
+## Seeds or Saplings
+
+ We are very enthusiastic about our farm. We need lots and lots of saplings, preferably of trees that can grow in rain shadow regions. We are also interested in fruit/food trees. Some examples are sesbania grandiflora (agathi), Moringa (drumstick), Cassia Fistula (Golden Shower), Indian Cork tree, Pongamia, Gliricidia, Papaya, guava, sitaphal etc.
+
+::: {.text-center}
+ ![](saplings.jpg){.medium-image}
+:::
