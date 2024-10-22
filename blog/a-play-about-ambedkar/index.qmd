@@ -1,6 +1,6 @@
 ---
-title: A play about Ambedkar
-subtitle: What a wonderful book to introduce Ambedkar to children!
+title: A play about Ambedkar 
+subtitle: What a wonderful book to introduce Ambedkar to children! <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/7QBsUGhvdG9zaG9wIDMuMAA4QklNBAQAAAAAAFA
 date: 2023-11-02
 categories:
   - learning
@@ -8,13 +8,13 @@ author: Venu GVGK
 page-layout: article
 ---
 
-What a wonderful book to introduce Ambedkar to children!
+What a wonderful book to introduce Ambedkar to children! 
 
 ![](XS54JZk.jpg)
 
-Having learnt about Gandhi till October 2nd, we wished to start learning about Dr. Ambedkar. This is among the books we will be using. Absolutely thrilled!
+Having learnt about Gandhi till October 2nd, we wished to start learning about Dr. Ambedkar. This is among the books we will be using. Absolutely thrilled! 
 
-Here is a quote from the postface, which is the more serious portion of the book.
+Here is a quote from the postface, which is the more serious portion of the book. 
 
 "The world is aware of Mahatma Gandhi's train journey in South Africa where he was thrown out of a compartment despite possessing a first\-class ticket. In comparison, even in India, far fewer people are aware of a similar, hugely significant train journey that Ambedkar undertook with his siblings while he was yet a child. If Gandhi's famed train episode in South Africa exposed the racial bias of the colonisers, Babasaheb's journey exposed the terrible evil of caste that has afflicted India for centuries. The colonisers have left but caste continues to afflict us like an incurable virus.
 
