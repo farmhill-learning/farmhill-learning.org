@@ -7,6 +7,10 @@ listing:
     template: ../_theme/people.ejs
     contents: people.yml
 ---
+It's the people that make a place, however beautiful it might naturally be. 
+Here is the team that makes Farm Hill what it is. We have deep expertise in education and autism.
+We are passionate about being teachers as well as learners, in the classroom, kitchen and the farm. 
+We love living at farm hill! 
 
 ::: {#people}
 :::

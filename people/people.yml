@@ -1,6 +1,15 @@
 
+- name: Bhargavi
+  subtitle: Art/Craft/Kitchen
+  photo: bhargavi.jpg  
+  bio: |
+    Bhargavi is an accomplished designer and artist. She works with the primary and pre-primary
+    classes teaching art. 
+
+
+
 - name: Chandu
-  subtitle: Autism/Teaching-Learning/Sports/Travelling
+  subtitle: Autism/Sports/Travelling
   photo: chandu.jpg  
   bio: |
     Chandu is a powerhouse of energy and enthusiasm. He works with the autism group, he is also 
@@ -11,7 +20,7 @@
     
 
 - name: Chitra
-  subtitle: Autism/Teaching-Learning/People/Kitchen
+  subtitle: Autism/People/Kitchen
   photo: chitra.jpg
   linkedin: https://www.linkedin.com/in/chithra-seshadri-249a9b59/
   bio: |
@@ -34,7 +43,7 @@
     learns a lot from him.
 
 - name: Geethika
-  subtitle: Teaching-Learning/Garden/Craft/Kitchen
+  subtitle: Garden/Craft/Kitchen
   photo: geethika.jpg
   bio: |
     Geethika is a natural at Farm Hill, having grown up in an 
@@ -43,8 +52,24 @@
     She holds together the day-to-day community functioning 
     and is very skilled with her hands.
 
+- name: Guru
+  subtitle: Garden/Campus
+  photo: guru.jpg
+  bio: |
+    Guru has been passionately involved in the fields of farming, gardening and coaching for several years.
+    As the gardening coach, he conducts classes for children, supervises their work in the garden,
+    as well as takes care of the farm we all live on. His expertise and calmness are both qualities to learn from.   
+
+- name: Nandana
+  subtitle: English/Sports/Library
+  photo: nandana.jpg
+  bio: |
+    Nandana brings a fresh, thoughtful approach to everything she does. She assists in English, History and Math classes,
+    ensuring students understand everything and do a good job of follow up work. High school also looks forward much to her frisbee sessions. 
+    She has a bachelors degree in Philosophy from APU and is also pursuing Library Educators course. 
+
 - name: Nishanth
-  subtitle: Teaching-Learning/Sports
+  subtitle: Science/Sports
   photo: nishanth.jpg
   bio: |
     Nishanth is as comfortable kicking around ideas, as he is with footballs.
@@ -55,15 +80,31 @@
 
 
 - name: Praveena
-  subtitle: Teaching-Learning/Parenting/Math
+  subtitle: Parenting/Math
   photo: praveena.jpg
   bio: |
     Praveena is a parent and an enthusiastic teacher/learner focused on mathematics. 
     She has a degree in Engineering and a diploma in early childhood education from APU. 
     Her constant curiosity and willingness to keep learning are assets to herself and the team. 
 
+- name: Risha
+  subtitle: English/Autism/Sports
+  photo: risha.jpg
+  bio: |
+    Risha is a graduate of Azim Premji University, with a bachelors in Biology and Education. 
+    She teaches English and Hindi to primary classes and also works with autism group. Behind the quietness,
+    she is a keen observer, with sharp sense of right and wrong, and she is an activist to boot!
+
+- name: Sireesha
+  subtitle: Autism/Kitchen/Accounts
+  photo: 
+  bio: |
+    Sireesha is a seasoned parent. She is meticulous and punctual, which makes her a great choice
+    to run the kitchen and keep the accounts. Her irrepressible spirit and readiness to pitch in
+    for anything, make her a valuable member of the team!
+
 - name: Venu
-  subtitle: Teaching-learning/Writing/Gyan
+  subtitle: Math/Writing/Gyan
   photo: venu.jpg
   linkedin: https://www.linkedin.com/in/venugvgk/
   bio: |
@@ -74,6 +115,17 @@
     He has a couple of decades of experience in teaching, mentoring and management. 
     He enjoys reading, writing, posting pictures of everything to 
     facebook/instagram and walking around, looking at the plants. 
+
+- name: Vijay
+  subtitle: English/Math
+  photo: vijay.jpg
+  linkedin: https://www.linkedin.com/in/vijaybhaskaran/
+  bio: |
+    We found Vijay living in a container on a farm nearby. He has been building his own house,
+    out of rocks found on his piece of land. With his degrees from IIT and UC Berkeley,
+    enthusiasm for living with nature, and willingness to spend time with children,
+    he is a perfect match!
+
 
 
 
