@@ -1,8 +1,11 @@
 ---
 title: Join us as a teacher-learner!
-subtitle:  Invitation to join Farm Hill Learning Community as a teacher/co-learner!
-date: February 25, 2024
+subtitle: Invitation to join Farm Hill Learning Community as a teacher/co-learner!
+date: 2024-02-25
+categories:
+  - general
 author: Venu GVGK
+page-layout: article
 ---
 
 Are you interested in larger questions about how we live and educate ourselves and our children? Would you like to live on a farm and play/learn with children?

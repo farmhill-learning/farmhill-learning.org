@@ -5,3 +5,35 @@
     object-fit: cover;
     aspect-ratio: 1/1;
 }
+
+.bank-account {
+    white-space: pre-line;
+}
+
+.qrcode {
+    max-width: 200px;
+}
+
+.medium-image {
+    width: 50%;
+}
+
+@media (max-width: 768px) {
+    .medium-image {
+        width: 100%;
+    }
+}
+
+.right-image {
+    max-width: 50%;
+    float: right;
+    padding-left: 20px;
+}
+
+@media (max-width: 768px) {
+    .right-image {
+        width: 100%;
+        float: none;
+    }
+}
+
