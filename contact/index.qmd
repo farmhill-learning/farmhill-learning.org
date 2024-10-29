@@ -3,8 +3,6 @@ title: Contact Us
 page-layout: full
 ---
 
-_Coming soon!_
-
 ```{=html}
 <div class="grid">
     <div class="g-col-12 g-col-md-6">
