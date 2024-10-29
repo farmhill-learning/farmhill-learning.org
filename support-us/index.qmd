@@ -77,3 +77,13 @@ We aim to be operationally self-sufficient through contributions of active membe
 ::: {.text-center}
  ![](saplings.jpg){.medium-image}
 :::
+
+::: {.page-cta}
+
+#### Need more information?
+
+Get in touch with us!
+
+<a href="/contact" class="btn btn-primary">Contact Us</a>
+
+:::

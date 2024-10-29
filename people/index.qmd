@@ -14,3 +14,13 @@ We love living at farm hill!
 
 ::: {#people}
 :::
+
+::: {.page-cta}
+
+#### Want to join the team?
+
+Get in touch with us!
+
+<a href="/contact" class="btn btn-primary">Contact Us</a>
+
+:::
