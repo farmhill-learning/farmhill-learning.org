@@ -71,3 +71,14 @@
     }
 }
 
+.page-cta {
+    padding: 20px;
+    border: 1px solid #ddd;
+    text-align: center;
+     background: #f2e6cc;
+     border-radius: 10px;
+}
+
+.page-cta a {
+    border-radius: 5px;
+}
