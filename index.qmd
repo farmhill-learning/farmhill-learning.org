@@ -23,22 +23,22 @@ hero-color: white
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}
-### Subodha
+### Learning Community
 
-about subodha
+We are a community of children and adults that have come together to learn. We believe it is important for us to learn together, about ourselves, each other and the world around us. We are interested in taking our learning beyond the traditional paradigm of studying fixed curricula in predetermined time frames to acquire skills to make a living.
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### Farmhill
+### Close to Nature
 
-about Farmhill
+Farm Hill is centered around nature - we live on a farm, with a small hill and some jungle around us. We believe closeness to nature is an important aspect of the learning design. Farm, kitchen and community are our classrooms!!
 :::
 
 
 ::: {.g-col-12 .g-col-md-4}
-### Sambhavam
+### Neurodiversity
 
-about Sambhavam
+It is the idea that neurological differences are the result of normal, natural variations of the human genome. This idea represents a new and fundamentally different way of looking at conditions like Autism and ADHD that have traditionally been thought of as "disorders".
 :::
 
 :::

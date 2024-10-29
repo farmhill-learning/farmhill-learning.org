@@ -2,7 +2,6 @@
 
 .hero {
     text-align: center;
-    margin-bottom: 1.5rem;
 
     background-color: rgba(255, 255, 255, 0.2);
     padding-top: 0px !important;
@@ -71,3 +70,14 @@
     }
 }
 
+.page-cta {
+    padding: 20px;
+    border: 1px solid #ddd;
+    text-align: center;
+     background: #f2e6cc;
+     border-radius: 10px;
+}
+
+.page-cta a {
+    border-radius: 5px;
+}

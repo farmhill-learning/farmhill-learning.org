@@ -57,3 +57,14 @@ Write to us at  <mailto:hello@farmhill-learning.org> - tell us about yourself an
 You can also call/WhatsApp Venu at +91 84310 32239 if you want to share any questions or thoughts.
 
 Thanks for your interest, we look forward to hearing from you!
+
+
+::: {.page-cta}
+
+#### Need help with Autism?
+
+Get in touch with us!
+
+<a href="/contact" class="btn btn-primary">Contact Us</a>
+
+:::
