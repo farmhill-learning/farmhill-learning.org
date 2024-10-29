@@ -1,0 +1,35 @@
+<div class="hero">
+  <div class="hero-content">
+  <h1 class="title">$title$</h1>
+  $if(subtitle)$
+  <p class="lead subtitle">$subtitle$</p>
+  $endif$
+  <div class="actions">
+    $if(buttons)$
+      $for(buttons)$
+        <button type="button" class="btn btn-primary" href="$buttons.href$">$buttons.text$</button>
+      $endfor$
+    $endif$
+  </div>
+</div>
+</div>
+<style type="text/css">
+  .hero {
+    $if(hero-background-color)$
+      background-color: $hero-background-color$;
+    $endif$
+    $if(hero-background-image)$
+      background-image: url("$hero-background-image$");
+      background-size: cover;
+      background-position: center center;
+    $endif$
+    $if(hero-color)$
+      color: $hero-color$ !important;
+    $endif$
+  }
+  .hero h1 {
+    $if(hero-color)$
+      color: $hero-color$ !important;
+    $endif$
+  }
+</style>
