@@ -8,7 +8,7 @@
     /* -webkit-filter: blur(2px); */
 }
 .hero-content {
-    backdrop-filter: brightness(60%) blur(2px);
+    backdrop-filter: brightness(80%) blur(2px);
     height: 100%;
     padding: 6rem 0 !important;
 
