@@ -9,8 +9,8 @@ format:
       - _theme/hero/title-block.html
 
 buttons:
-    - text: Know More...
-      href: /about/
+    - text: Support us
+      href: /support-us/
       class: primary
 
 hero-background-image: images/banner.jpg
