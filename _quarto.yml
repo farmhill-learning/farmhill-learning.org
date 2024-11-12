@@ -13,6 +13,7 @@ website:
   title: "Farm Hill Learning"
   open-graph: true
   twitter-card: true
+  site-url: https://farmhill-learning.org/
   navbar:
     background: primary
     left:
