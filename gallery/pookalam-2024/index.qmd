@@ -1,0 +1,24 @@
+---
+title: Pookalam
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: Nov 2024
+date-format: "MMM YYYY"
+image: photos/pookalam1.jpg
+---
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+Shishu created this pookalam, just like that!
+
+![](photos/pookalam1.jpg){group="my-gallery"}
+
+![](photos/pookalam2.jpg){group="my-gallery"}
+
+![](photos/pookalam3.jpg){group="my-gallery"}
+
+![](photos/pookalam4.jpg){group="my-gallery"}
+
+:::
