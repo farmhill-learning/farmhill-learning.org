@@ -8,10 +8,11 @@ date: Nov 2024
 date-format: "MMM YYYY"
 image: photos/pookalam1.jpg
 ---
+Shishu created this pookalam, just like that!
 
 ::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
 
-Shishu created this pookalam, just like that!
+
 
 ![](photos/pookalam1.jpg){group="my-gallery"}
 
