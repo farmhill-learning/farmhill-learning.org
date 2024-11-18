@@ -32,6 +32,22 @@ website:
       - icon: facebook
         href: https://facebook.com/farmhilllearning
 
+  page-footer:
+    border: true
+    left: |
+      _Farm Hill Learning Community_ is an initiative of [_Farm Hill Education Trust_](https://farmhill.in).<br>
+      Other initiatives include [_Sambhavam Centre for Autism_](https://sambhavam-autism.com/)
+      and [_Subodha Learning Community_](https://subodha.farmhill.in).
+
+    right:
+      - icon: whatsapp
+        href: "https://wa.me/918431032239?text=I%27m+interested+to+know+more+about+Farmhill."
+      - icon: instagram
+        href: "https://www.instagram.com/farmhill.learning"
+      - icon: facebook
+        href: https://facebook.com/farmhilllearning
+
+
 format:
   html:
     page-layout: full
@@ -39,8 +55,4 @@ format:
       - cosmo
       - theme.scss
     css: styles.css
-    page-footer:
-      right: |
-        Made with [Quarto](https://quarto.org/)
-
 
