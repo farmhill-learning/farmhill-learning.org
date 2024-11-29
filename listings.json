@@ -1,7 +1,23 @@
 [
   {
-    "listing": "/people/index.html",
-    "items": []
+    "listing": "/gallery/index.html",
+    "items": [
+      "/gallery/pookalam-2024/index.html",
+      "/gallery/sand-castles-2024/index.html",
+      "/gallery/celebrating-subba-2024/index.html",
+      "/gallery/blooming-day-2024/index.html",
+      "/gallery/campfile-2024/index.html",
+      "/gallery/mango-shower-2024/index.html",
+      "/gallery/golden-showers-2023/index.html",
+      "/gallery/lotus-pond-2023/index.html",
+      "/gallery/shankupushpi-2023/index.html",
+      "/gallery/onam-2022/index.html",
+      "/gallery/flower-2022/index.html",
+      "/gallery/hutk-2022/index.html",
+      "/gallery/spring-2021/index.html",
+      "/gallery/rain-2020/index.html",
+      "/gallery/farmhill-2019/index.html"
+    ]
   },
   {
     "listing": "/blog/index.html",
@@ -35,23 +51,7 @@
     ]
   },
   {
-    "listing": "/gallery/index.html",
-    "items": [
-      "/gallery/pookalam-2024/index.html",
-      "/gallery/sand-castles-2024/index.html",
-      "/gallery/celebrating-subba-2024/index.html",
-      "/gallery/blooming-day-2024/index.html",
-      "/gallery/campfile-2024/index.html",
-      "/gallery/mango-shower-2024/index.html",
-      "/gallery/golden-showers-2023/index.html",
-      "/gallery/lotus-pond-2023/index.html",
-      "/gallery/shankupushpi-2023/index.html",
-      "/gallery/onam-2022/index.html",
-      "/gallery/flower-2022/index.html",
-      "/gallery/hutk-2022/index.html",
-      "/gallery/spring-2021/index.html",
-      "/gallery/rain-2020/index.html",
-      "/gallery/farmhill-2019/index.html"
-    ]
+    "listing": "/people/index.html",
+    "items": []
   }
 ]
