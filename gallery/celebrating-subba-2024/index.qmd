@@ -4,7 +4,7 @@ bread-crumbs: true
 filters:
     - lightbox
 lightbox: auto
-date: Apr 2024
+date: 2024-04-06
 date-format: "MMM YYYY"
 image: photos/008.jpg
 ---

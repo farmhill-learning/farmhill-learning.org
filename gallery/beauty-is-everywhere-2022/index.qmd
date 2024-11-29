@@ -1,0 +1,19 @@
+---
+title: Beauty is everywhere
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: 2022-12-05
+date-format: "MMM YYYY"
+image: photos/001.jpg
+---
+
+
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+
+![](photos/001.jpg){group="my-gallery"}
+
+:::

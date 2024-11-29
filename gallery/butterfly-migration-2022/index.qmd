@@ -1,0 +1,21 @@
+---
+title: Butterfly migration!
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: 2022-07-21
+date-format: "MMM YYYY"
+image: photos/001.jpg
+---
+
+
+
+Annual blue tiger migration observed at farm hill. The plant is a variety of sunnhemp. 
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+
+![](photos/001.jpg){group="my-gallery"}
+
+:::

@@ -1,0 +1,19 @@
+---
+title: Learning
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: 2022-11-29
+date-format: "MMM YYYY"
+image: photos/001.jpg
+---
+
+There is a lot to learn, watching a slide being built! 
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+
+![](photos/001.jpg){group="my-gallery"}
+
+:::

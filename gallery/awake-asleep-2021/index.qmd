@@ -1,0 +1,21 @@
+---
+title: Awake. Asleep.
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: 2021-02-09
+date-format: "MMM YYYY"
+image: photos/001.jpg
+---
+
+New kittens at Farm Hill
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+
+![](photos/001.jpg){group="my-gallery"}
+
+![](photos/002.jpg){group="my-gallery"}
+
+:::

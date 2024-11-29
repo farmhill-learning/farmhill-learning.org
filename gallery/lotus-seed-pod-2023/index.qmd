@@ -1,0 +1,19 @@
+---
+title: Lotus seed pod!
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: 2023-05-07
+date-format: "MMM YYYY"
+image: photos/001.jpg
+---
+
+It's so intricately made to hold the seeds
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+
+![](photos/001.jpg){group="my-gallery"}
+
+:::

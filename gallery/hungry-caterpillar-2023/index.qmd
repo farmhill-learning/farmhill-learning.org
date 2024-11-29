@@ -1,0 +1,19 @@
+---
+title: Hungry caterpillar
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: 2023-05-08
+date-format: "MMM YYYY"
+image: photos/001.jpg
+---
+
+One mor child gets introduced to hungry caterpillar! 
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+
+![](photos/001.jpg){group="my-gallery"}
+
+:::

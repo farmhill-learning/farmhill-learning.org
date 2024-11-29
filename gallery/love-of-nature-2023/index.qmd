@@ -1,0 +1,27 @@
+---
+title: Love of nature
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: 2023-06-14
+date-format: "MMM YYYY"
+image: photos/001.jpg
+---
+
+"How do I make my children develop interest in reading?", is a question I am asked very frequently. 
+
+You can't make them. Let the environment around them be filled with books, let the adults around them engage with books and children, and the children will naturally learn to engage with books.   
+
+"How do I nurture a love of nature in children?", is a question I ask myself frequently.
+
+The answer is similar. Let them live close to nature, let the adults around them be engaged with nature and children, and children naturally learn to love nature. 
+
+Photo - children during a short break, this morning at farm hill.
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+
+![](photos/001.jpg){group="my-gallery"}
+
+:::

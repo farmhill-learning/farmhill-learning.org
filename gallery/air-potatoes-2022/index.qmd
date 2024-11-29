@@ -1,0 +1,25 @@
+---
+title: Air potatoes
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: 2022-10-11
+date-format: "MMM YYYY"
+image: photos/001.jpg
+---
+
+Our own air potato! 
+
+Dioscorea bulbifera, also known as bitter yam, air yam, cheeky yam, potato yam etc. is a species of true yam. It's called air potato because the bulbs look like potatos and grow on the vine instead of in the ground. 
+
+It's edible and grows wild like a weed! We planted a bulb about six months back and forgot about it. It's grown like this today. Can't wait to taste it!
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+
+![](photos/001.jpg){group="my-gallery"}
+
+![](photos/002.jpg){group="my-gallery"}
+
+:::
