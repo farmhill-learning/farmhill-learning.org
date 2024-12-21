@@ -3,7 +3,7 @@ title: Compare and Contrast - lesson plan
 subtitle: or how to engage a vertical, neurodiverse group in learning
 date: 2024-12-09
 categories:
-  - education
+  - learning
 author: Chithra Seshadri
 page-layout: article
 ---
