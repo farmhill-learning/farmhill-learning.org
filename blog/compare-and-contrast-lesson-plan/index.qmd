@@ -1,6 +1,6 @@
 ---
-title: Compare and Contrast - lesson plan 
-subtitle: or how to engage a vertical, neurodiverse group in learning
+title: Engaging a vertical, neurodiverse group in Learning
+subtitle: compare and contrast lesson plan
 date: 2024-12-09
 categories:
   - learning
