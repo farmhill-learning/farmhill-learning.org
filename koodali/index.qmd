@@ -1,0 +1,41 @@
+---
+title: Koodali 2025 
+---
+
+::: {.container}
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+![](Koodali%202025%20Invite.jpg){fig-align="left"}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Come join us in celebrating the spirit of Farm Hill Community!
+
+### Dates: 11th and 12th April 2025
+
+#### Let us know about your visit on this [RSVP form](https://forms.gle/MW55sXhdju2zXzAA6). 
+
+#### Here is the [location](https://maps.app.goo.gl/k1bMSgVcrn2NLexy5) - about 1.5 hr drive from Bangalore. 
+
+
+
+Koodali is the annual gathering of the Farm Hill community - it is the time of the year when all of us come together to celebrate the spirit of the community. 
+
+Active members of the community, our friends, well wishers, as well as other interested people participate in a variety of activities over two days, on the Farm Hill Learning Campus near Shoolagiri, Tamil Nadu. 
+
+
+For more information and any assistance, write to us using the [contact form](/contact/index.qmd) or use the WhatsApp link on the website to text us!
+
+
+Looking forward to see you all!
+
+#### Team Farm Hill 
+
+:::
+
+:::
+:::
+
+

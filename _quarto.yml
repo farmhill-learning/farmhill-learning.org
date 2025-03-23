@@ -24,6 +24,7 @@ website:
       - about/index.qmd
       - join-us/index.qmd
       - contact/index.qmd
+      - koodali/index.qmd
     tools:
       - icon: whatsapp
         href: "https://wa.me/918431032239?text=I%27m+interested+to+know+more+about+Farmhill."
@@ -46,6 +47,11 @@ website:
         href: "https://www.instagram.com/farmhill.learning"
       - icon: facebook
         href: https://facebook.com/farmhilllearning
+  announcement: 
+    content: "Koodali 2025 is on 11th and 12th April! Look for the link below!!"
+    type: success
+    dismissable: false
+    position: above-navbar
 
 
 format:
