@@ -34,9 +34,39 @@ Looking forward to see you all!
 #### Team Farm Hill 
 
 :::
+:::
+:::
+
+::: {.container}
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### Program
+
+#### Friday 11th April 2025
+
+Theatre - Plays by Shishu, Kishkindha and Adults **Silambam** Dance **Singing and Drums by Subodha Learning** Songs **Kolattam**
+
+
+#### Saturday 12th April 2025
+
+Shishu Showcase - Restuarant **Life of Buddha - A play** Dance **Panel Discussion - high school** Full School Singing and Drums
+
+### **Celebrating Subba - 2pm, 12th April**
+
+Short workshops/do along demonstrations of Origami, Weaving, Key chain making, stitching cards, 
+Banana fibre work in the afternoon on both days!
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![](subba-2025.png)
+:::
 
 :::
 :::
+
 
 ### Glimpses from previous editions of Koodali
 
