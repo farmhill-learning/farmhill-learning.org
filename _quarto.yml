@@ -48,7 +48,7 @@ website:
       - icon: facebook
         href: https://facebook.com/farmhilllearning
   announcement: 
-    content: "Koodali 2025 is on 11th and 12th April! Look for the link below!!"
+    content: "Koodali 2025 is on 11th and 12th April!"
     type: success
     dismissable: false
     position: above-navbar

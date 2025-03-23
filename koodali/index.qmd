@@ -38,4 +38,20 @@ Looking forward to see you all!
 :::
 :::
 
+### Glimpses from previous editions of Koodali
+
+::: {layout-ncol=2}
+
+::: {layout-nrow=2}
+
+![](1.jpg){width="30%"}
+![](3.jpg){width="30%"}
+![](6.jpg){width="30%"}
+
+![](4.jpg){width="30%"}
+![](5.jpg){width="30%"}
+![](7.jpg){width="30%"}
+
+:::
+:::
 
