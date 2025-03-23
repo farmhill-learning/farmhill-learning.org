@@ -40,18 +40,45 @@ Looking forward to see you all!
 
 ### Glimpses from previous editions of Koodali
 
-::: {layout-ncol=2}
+::: {.container}
 
-::: {layout-nrow=2}
+::: {.grid}
 
-![](1.jpg){width="30%"}
-![](3.jpg){width="30%"}
-![](6.jpg){width="30%"}
+::: {.g-col-12 .g-col-md-4}
+![](1.jpg)
+:::
 
-![](4.jpg){width="30%"}
-![](5.jpg){width="30%"}
-![](7.jpg){width="30%"}
+::: {.g-col-12 .g-col-md-4}
+![](3.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](6.jpg)
+:::
 
 :::
 :::
+
+::: {.container}
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](4.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](5.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](7.jpg)
+:::
+
+:::
+:::
+
+
+
+
 
