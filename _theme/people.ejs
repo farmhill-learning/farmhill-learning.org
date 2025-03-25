@@ -13,11 +13,17 @@
                 <h4><%= item.name %></h4>
                 <div class="person-subtitle"><%= item.subtitle %></div>
 
-                <% if (item.linkedin) { %>
-                    <div class="linkedin-link">
+                <div class="social-links">
+                    <% if (item.linkedin) { %>
                         <a href="<%= item.linkedin %>" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
-                    </div>
-                <% } %>
+                    <% } %>
+                    <% if (item.instagram) { %>
+                        <a href="<%= item.instagram %>" title="Instagram"><i class="bi bi-instagram"></i></a>
+                    <% } %>
+                    <% if (item.website) { %>
+                        <a href="<%= item.website %>" title="Website / Homepage"><i class="bi bi-house"></i></a>
+                    <% } %>
+                </div>
             </div>
 
             <p><%= item.bio %>
