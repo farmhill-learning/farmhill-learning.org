@@ -17,11 +17,17 @@ website:
   navbar:
     background: primary
     left:
-      - blog/index.qmd
-      - people/index.qmd
-      - gallery/index.qmd
+      - text: "About"
+        menu: 
+          - about/index.qmd
+          - about/reflections.qmd
+          - about/typical-day.qmd
+          - people/index.qmd
+      - text: "Updates"
+        menu: 
+        - blog/index.qmd
+        - gallery/index.qmd
       - support-us/index.qmd
-      - about/index.qmd
       - join-us/index.qmd
       - contact/index.qmd
       - koodali/index.qmd
