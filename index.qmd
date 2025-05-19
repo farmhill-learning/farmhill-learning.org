@@ -9,8 +9,8 @@ format:
       - _theme/hero/title-block.html
 
 buttons:
-    - text: Koodali 2025
-      href: /koodali/
+    - text: Know The Latest
+      href: /gallery/index.qmd
       class: primary
 
 hero-background-image: images/banner.jpg
@@ -46,11 +46,11 @@ It is the idea that neurological differences are the result of normal, natural v
 
 ::: {.page-cta}
 
-#### Want to know more about us?
+#### Want to join?
 
-Come to Koodali 2025!
+Learn how to!
 
-<a href="/koodali/index.html" class="btn btn-primary">Koodali 2025</a>
+<a href="join-us/index.qmd" class="btn btn-primary">Join The Community</a>
 
 :::
 
