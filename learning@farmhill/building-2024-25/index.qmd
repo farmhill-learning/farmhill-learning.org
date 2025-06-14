@@ -6,6 +6,7 @@ categories:
   - projects
 author: Geethika
 page-layout: article
+image: kennel-planning-2.jpg 
 description: A simple building task, when approached as a collaborative, educational project, transforms into a rich experience in teamwork and problem-solving.
 ---
 
