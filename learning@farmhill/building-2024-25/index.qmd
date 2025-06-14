@@ -1,0 +1,174 @@
+---
+title: Project - Building a Kennel 2024-25
+subtitle: Building a Sustainable Kennel - A Collaborative Learning Experience
+date: 2025-03-20
+categories:
+  - projects
+author: Geethika
+page-layout: article
+description: A simple building task, when approached as a collaborative, educational project, transforms into a rich experience in teamwork and problem-solving.
+---
+
+Constructing a kennel is often seen as a straightforward task - an exercise in providing shelter for animals. However, when approached as a collaborative, educational project, it transforms into a rich experience in teamwork, problem-solving, and sustainable building practices. This article details the process of building an 8x4 feet kennel, emphasizing the methods, materials, and learnings that emerged from the collective effort of children and adults. The project not only resulted in a functional structure for five dogs but also served as a practical classroom for hands-on learning and traditional construction techniques.
+
+# Planning and Plot Selection
+
+The project commenced with the selection of a suitable plot of land. The size of the kennel was determined to be 8 feet by 4 feet, a dimension that balanced available space with the needs of the animals. The process of marking out this rectangle on the ground became the first significant learning opportunity. Using a measuring tape, the children attempted to draw the rectangle. However, their initial efforts resulted in a parallelogram rather than a true rectangle.
+
+This challenge introduced the concept of geometric accuracy in construction. The children experimented with moving the sides of the shape to correct it, but the solution eluded them until an adult facilitator, Ganesan, explained a fundamental principle: for a rectangle, the diagonals must be of equal length. Demonstrating with sticks, Ganesan illustrated that by measuring and adjusting the diagonals, one could ensure the shape was a perfect rectangle. This practical lesson in geometry not only corrected the layout but also reinforced mathematical concepts in a tangible context.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-planning-1.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-planning-2.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-planning-3.jpg)
+:::
+
+:::
+
+# Preparing the foundation
+
+With the rectangle properly marked, attention shifted to preparing the foundation. The foundation is a critical element in any structure, providing stability and longevity. For this kennel, the plan specified that the foundation should be double the width of the wall to ensure adequate support and durability. To achieve this, the foundation trench was marked so that the extra width was distributed equally on both sides of the wall—half the additional width inside and half outside the marked boundary of the wall. This careful distribution ensured that the wall would be centered on the foundation and well-supported against soil movement and moisture.
+
+The task of digging the foundation was largely undertaken by the children, with occasional assistance from adults. This high level of participation fostered a sense of ownership and responsibility. Stones collected from around the campus were used to fill the trench, and this stone layer was then combined with a mixture of mud and water to create a firm base. The process of gathering materials, mixing, and filling the foundation provided practical lessons in resource management and teamwork.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-foundation-1.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-foundation-2.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-foundation-3.jpg)
+:::
+
+:::
+
+# Wall Construction: Materials and Methods
+
+Once the foundation was set, the construction of the walls began. The first layer was built using bricks, but a decision was made to construct the remaining walls without bricks, opting instead for a traditional mixture of mud, grass, and water. This method, often referred to as cob or adobe construction, is both sustainable and cost-effective. Stones were intermittently embedded within the mud walls to enhance structural integrity.
+
+The walls were constructed gradually, with only one layer added each day. Each layer was allowed to dry completely before the next was applied, a process that spanned several weeks and ultimately resulted in walls three feet high. This slow, methodical approach ensured the stability of the structure and minimized the risk of cracks or collapse.
+
+The interior of the kennel was divided into two rooms by a middle wall. This dividing wall was constructed using a bamboo framework, which was then packed with mud. The use of bamboo not only provided structural support but also introduced the children to alternative building materials and techniques. During this phase, the children learned to tie basic knots, a skill essential for securing bamboo in construction.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-wall-1.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-wall-2.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-wall-3.jpg)
+:::
+
+:::
+
+# Ensuring Accuracy: Traditional Tools
+
+Maintaining level and straight walls is crucial in any building project. To facilitate this, Ganesh Anna, an experienced builder, created two simple, kid-friendly tools: an A-frame and a plumb bob. The A-frame, a triangular wooden frame with a string and weight, was used to check the level of the walls. The plumb bob, a pointed weight suspended from a string, helped ensure that the walls were vertically straight.
+
+These tools were specifically designed by Ganesan to be easy for children to use. The children quickly learned to apply them, gaining practical experience in maintaining construction accuracy. This exposure to traditional tools reinforced the importance of precision in building and provided a direct link to time-tested construction practices.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-tools-1.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-tools-2.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-tools-3.jpg)
+:::
+
+:::
+
+# Weather Protection and Plastering
+
+Earthen walls, while sustainable and aesthetically pleasing, are vulnerable to rain and moisture. To address this, the roof was designed to extend beyond the walls, providing additional protection from direct rainfall. Furthermore, the walls were coated with a plastering mixture that included a small amount of cement and lime. The lime served as a natural water repellent, enhancing the durability of the mud walls.
+
+Plastering was another hands-on activity in which the children participated. They learned to mix the plaster and apply it evenly, gaining insight into finishing techniques that are essential for weatherproofing and aesthetics.
+
+# Creative Elements: Mosaics and Light
+
+A distinctive feature of the kennel was the addition of mosaic designs on the walls. Waste tiles, collected from a local shop, were broken into smaller pieces and used to create colorful patterns. The initial method involved pressing the tiles directly into the fresh plaster, but this proved inefficient as the plaster dried too quickly. The team then developed a more effective technique: the tiles were glued onto pieces of old mosquito nets, which were then attached to the wall. This approach allowed for more intricate designs and easier application.
+
+For natural lighting, glass bottles were embedded into the walls. These bottles, placed strategically, allowed sunlight to filter into the kennel, creating a pleasant and visually appealing environment for the animals. This method of incorporating recycled materials not only enhanced the functionality of the kennel but also demonstrated creative reuse of waste products.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-creative-1.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-creative-2.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-creative-3.jpg)
+:::
+
+:::
+
+# Roofing and Flooring: Math in Action
+
+The roof structure was built using leftover wood and reclaimed roof tiles, reflecting the project’s commitment to sustainability and resourcefulness. A significant part of this phase involved the children applying their classroom mathematics to real-world construction. Before laying the tiles, the children measured the length and width of the roof area, calculated the total area to be covered, and then determined how many tiles would be required. This process involved dividing the total area of the roof by the area of a single tile, a method commonly used in construction to ensure accurate estimates and minimize waste. Older children assisted with cutting and nailing the wood, while younger children contributed to other aspects of the construction.
+
+The same method was applied to the flooring. The children measured the length and width of the kennel floor to calculate the total floor area. They then measured the dimensions of a single terracotta tile and divided the total floor area by the area of one tile to find out how many tiles would be needed for the entire floor. This exercise reinforced their understanding of area calculation and estimation, and they also learned to account for a small percentage of extra tiles to cover potential breakage or cutting losses, as is standard in tiling projects. The children then helped lay the tiles, learning about alignment and spacing in the process.
+
+By directly engaging in these calculations and measurements, the children connected mathematical concepts with tangible outcomes, deepening their appreciation for the practical applications of their studies. This approach not only ensured efficient use of materials but also provided a meaningful, hands-on learning experience.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-roof-1.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-roof-2.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](kennel-roof-3.jpg)
+:::
+
+:::
+
+# Educational Outcomes and Participation
+
+One of the most significant aspects of the kennel project was the high level of child participation. The children were involved in nearly every stage, from digging the foundation and carrying stones to mixing mud, measuring, plastering, and decorating. They used trolleys to transport materials and enjoyed the tactile experience of stepping into the mud. These activities not only made the project enjoyable but also provided valuable lessons in cooperation, problem-solving, and perseverance.
+
+The use of traditional tools like the A-frame and plumb bob, as well as the introduction of knot-tying for bamboo construction, enriched the learning experience. The children gained practical skills that are rarely taught in conventional classrooms but are essential for understanding the basics of construction and engineering.
+
+# Project Completion and Impact
+
+Upon completion, the kennel provided a comfortable and attractive home for five dogs. The structure stood as a testament to what can be achieved through collective effort, sustainable practices, and experiential learning. The children expressed satisfaction and pride in their work, having contributed meaningfully to every aspect of the build. The adults involved also found the process rewarding, noting the positive impact on the children’s confidence and skills.
+
+The project demonstrated that building with natural and recycled materials is not only feasible but also beneficial for both the environment and the community. It highlighted the value of integrating practical skills and academic concepts, such as geometry and arithmetic, into real-world applications.
+
+![](kennel-final.jpg)
+
+# Conclusion
+
+The kennel building project exemplifies how construction can be transformed into a collaborative, educational, and sustainable endeavor. By involving children in every step—from planning and measuring to building and decorating—the project fostered a sense of ownership, responsibility, and accomplishment. The use of traditional techniques and tools, combined with creative problem-solving and resourcefulness, resulted in a functional and aesthetically pleasing structure.
+
+This experience underscores the importance of hands-on learning and community involvement in building projects. It serves as a model for how similar initiatives can be designed to maximize educational value while promoting sustainability and teamwork. The completed kennel is more than just a shelter for animals; it is a lasting symbol of what can be achieved when knowledge, creativity, and cooperation come together in pursuit of a common goal.

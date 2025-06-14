@@ -31,6 +31,7 @@ website:
       - join-us/index.qmd
       - contact/index.qmd
       - koodali/index.qmd
+      - learning@farmhill/index.qmd
     tools:
       - icon: whatsapp
         href: "https://wa.me/918431032239?text=I%27m+interested+to+know+more+about+Farmhill."

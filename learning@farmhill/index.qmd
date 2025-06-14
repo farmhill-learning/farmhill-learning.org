@@ -1,0 +1,10 @@
+---
+title: "Learning@Farmhill"
+subtitle: Glimpses into the learning journeys at Farmhill
+listing:
+  contents: "*/index.qmd"
+  sort: "date desc"
+  type: grid
+  categories: true
+  ---
+
