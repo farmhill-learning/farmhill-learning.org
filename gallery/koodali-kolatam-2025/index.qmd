@@ -1,0 +1,19 @@
+---
+title: Koodali Kolatam 2025!
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: 2025-06-16
+date-format: "MMM YYYY"
+image: photos/Kolatam1.jpg
+---
+
+koodali2025-kolatam-sishu!
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+
+![](photos/kolatam1.jpg){group="my-gallery"}
+
+:::
