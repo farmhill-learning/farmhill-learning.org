@@ -9,7 +9,7 @@ date-format: "MMM YYYY"
 image: photos/Kolatam1.jpg
 ---
 
-koodali2025-kolatam-sishu!
+Sishu performs Kolattam during Koodali - 2025!
 
 ::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
 
