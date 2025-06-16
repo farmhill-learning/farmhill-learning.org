@@ -6,7 +6,7 @@ filters:
 lightbox: auto
 date: 2025-06-16
 date-format: "MMM YYYY"
-image: photos/kolatam1.jpg
+image: photos/kolatam1.JPG
 ---
 
 Sishu performing Kolatam in Koodali 2025!
@@ -14,6 +14,6 @@ Sishu performing Kolatam in Koodali 2025!
 ::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
 
 
-![](photos/kolatam1.jpg){group="my-gallery"}
+![](photos/kolatam1.JPG){group="my-gallery"}
 
 :::
