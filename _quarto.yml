@@ -27,11 +27,12 @@ website:
         menu: 
         - blog/index.qmd
         - gallery/index.qmd
-      - support-us/index.qmd
+      - admissions/index.qmd
       - join-us/index.qmd
-      - contact/index.qmd
       - koodali/index.qmd
       - learning@farmhill/index.qmd
+      - contact/index.qmd
+      - support-us/index.qmd
     tools:
       - icon: whatsapp
         href: "https://wa.me/918431032239?text=I%27m+interested+to+know+more+about+Farmhill."
