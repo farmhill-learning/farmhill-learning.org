@@ -30,7 +30,7 @@ website:
       - admissions/index.qmd
       - join-us/index.qmd
       - koodali/index.qmd
-      - learning@farmhill/index.qmd
+      - learning-at-farmhill/index.qmd
       - contact/index.qmd
       - support-us/index.qmd
     tools:
