@@ -20,7 +20,6 @@ website:
       - text: "About"
         menu: 
           - about/index.qmd
-          - about/reflections.qmd
           - about/typical-day.qmd
           - people/index.qmd
       - text: "Updates"
