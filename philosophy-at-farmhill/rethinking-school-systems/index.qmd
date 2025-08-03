@@ -1,6 +1,10 @@
 ---
-title: "Rethinking School"
-subtitle: "Reflections from Farm Hill Learning"
+title: Rethinking school systems
+date: 2025-03-20
+author: Venu
+page-layout: article
+image: reflections.jpg
+description: Why we are a learning community and not a school
 ---
 
 Let’s begin with a confession: we rarely call ourselves a “school.” The word feels too tight, too loaded with assumptions about time, authority, and what it means to learn. Instead, at Farm Hill, we speak of a learning community-a space where children, adults, teachers and parents are invited to learn together. This is not just semantics. It’s a deliberate stance, born from years of working in both mainstream and alternative schools, and from the deep conviction that the system itself needs questioning, not just tweaking.
@@ -12,8 +16,6 @@ Most schools, whether state board or CBSE, operate within a rigid frame: fixed s
 At Farm Hill, we started with a different question: What if we built from scratch, not just a new curriculum, but a new relationship to learning itself? What if we acknowledged that our own imaginations are limited by the systems we’ve inherited? For example, many of us-parents and teachers alike-believe that children need to be taught everything, from eating to sleeping, by experts. This belief is so deep that it shapes our very definition of education. But is it true? Is school the only way to learn?
 
 We found that even when we experienced curricular or philosophical freedom, there were other freedoms-freedom from structure, freedom from the compulsion to teach-that we hadn’t dared to try. The idea of not having a weekly Hindi period, for instance, can be deeply unsettling to a teacher who has never seen learning happen outside that frame. Our challenge, then, is not just to innovate within the system, but to question the system itself.
-
-
 
 ## Pedagogy: Innovation and Its Limits
 

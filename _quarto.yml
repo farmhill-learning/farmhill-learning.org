@@ -27,10 +27,11 @@ website:
         menu: 
         - blog/index.qmd
         - gallery/index.qmd
+        - koodali/index.qmd
       - admissions/index.qmd
       - join-us/index.qmd
-      - koodali/index.qmd
       - learning-at-farmhill/index.qmd
+      - philosophy-at-farmhill/index.qmd
       - contact/index.qmd
       - support-us/index.qmd
     tools:

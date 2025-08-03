@@ -1,0 +1,10 @@
+---
+title: Philosophy
+subtitle: Reflections from Farm Hill Learning
+listing:
+  contents: "*/index.qmd"
+  sort: "date desc"
+  type: grid
+  categories: true
+---
+
