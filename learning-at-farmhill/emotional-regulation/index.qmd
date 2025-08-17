@@ -7,7 +7,7 @@ categories:
 author: Chithra Seshadri
 page-layout: article
 image: emo-reg1.jpg
-description: An incident that demonstrate that in environments that offer rich scope for emotional engagement, children learn to regulate themselves and help others
+description: In environments that offer rich scope for emotional engagement, children can learn to regulate themselves and help others
 ---
 
 Emotional regulation is a vital life skill. When someone is overwhelmed, it’s not just hard for them—it’s challenging for those around them too. That's why coregulation matters: being present with someone, calm and available, until things settle.
