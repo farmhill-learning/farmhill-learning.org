@@ -1,0 +1,22 @@
+---
+title: Kishkindha goes to Bangalore
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: 2025-07-17
+date-format: "MMM YYYY"
+image: photos/music.jpg
+---
+
+A visit to Rangashankara and Indian Music Experience!
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+![](photos/music.jpg)
+
+![](photos/books.jpg)
+
+![](photos/food.jpg)
+
+:::
