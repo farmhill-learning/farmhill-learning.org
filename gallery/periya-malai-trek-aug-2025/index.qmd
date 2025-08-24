@@ -1,0 +1,36 @@
+---
+title: Trek to Periyamalai
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: 2025-08-20
+date-format: "MMM YYYY"
+image: photos/trek8.jpg
+---
+
+It was a three hour trek but felt so good!
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+![](photos/trek1.jpg)
+
+![](photos/trek10.jpg)
+
+![](photos/trek2.jpg)
+
+![](photos/trek3.jpg)
+
+![](photos/trek4.jpg)
+
+![](photos/trek5.jpg)
+
+![](photos/trek6.jpg)
+
+![](photos/trek7.jpg)
+
+![](photos/trek8.jpg)
+
+![](photos/trek9.jpg)
+
+:::
