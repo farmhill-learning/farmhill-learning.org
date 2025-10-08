@@ -1,0 +1,24 @@
+---
+title: Building a Scale Model
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: 2025-10-09
+date-format: "MMM YYYY"
+image: photos/model2.jpg
+---
+
+Kishkindha builds a model of one of our buildingss, to scale, in their math class. They took about 10 classes measuring everything and building with cardboard! 
+
+You can watch a detailed video on the same [here](https://youtube.com/shorts/eq2abUPUk5k?si=bvS2sJj8m_U5zOYx) on YouTube. 
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+![](photos/model0.jpg){group="my-gallery"}
+
+![](photos/model1.jpg){group="my-gallery"}
+
+![](photos/model2.jpg){group="my-gallery"}
+
+:::
