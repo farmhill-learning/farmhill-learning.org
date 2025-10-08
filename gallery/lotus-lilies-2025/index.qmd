@@ -1,0 +1,23 @@
+---
+title: Lotus and Lily
+bread-crumbs: true
+filters:
+    - lightbox
+lightbox: auto
+date: 2025-10-05
+date-format: "MMM YYYY"
+image: photos/lotus.jpg
+---
+
+Lotuses in the rock pool and the lily in the mango pond!
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));grid-gap: 1em;"}
+
+
+![](photos/lily.jpg){group="my-gallery"}
+
+![](photos/lotus.jpg){group="my-gallery"}
+
+![](photos/lotus2.jpg){group="my-gallery"}
+
+:::
