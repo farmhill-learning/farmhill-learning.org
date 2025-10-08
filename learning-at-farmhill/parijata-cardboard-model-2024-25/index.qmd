@@ -24,14 +24,8 @@ At Farm Hill, learning emerges from real questions, not just from the syllabus a
 
 This video below captures the full process!
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe 
-    src="https://www.youtube.com/embed/eq2abUPUk5k" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-    frameborder="0" 
-    allowfullscreen>
-  </iframe>
-</div>
+https://www.youtube.com/watch?v=eq2abUPUk5k
+
 
 ## Modeling as Mathematical Storytelling
 
