@@ -3,7 +3,7 @@ title: Make the ordinary come alive!
 date: 2026-02-24
 author: Chitra
 page-layout: article
-image: celebrate-ordinary.jpg
+image: celebrate-ordinary.jpeg
 description: and that might be the most radical thing we can offer our children.
 ---
 
