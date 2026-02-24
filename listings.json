@@ -1,50 +1,12 @@
 [
   {
-    "listing": "/people/index.html",
-    "items": []
-  },
-  {
-    "listing": "/learning-at-farmhill/index.html",
+    "listing": "/philosophy-at-farmhill/index.html",
     "items": [
-      "/learning-at-farmhill/parijata-cardboard-model-2024-25/index.html",
-      "/learning-at-farmhill/emotional-regulation/index.html",
-      "/learning-at-farmhill/building-2024-25/index.html",
-      "/learning-at-farmhill/flexible-learning-environment-2023/index.html"
-    ]
-  },
-  {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/cycling-with-akhil/index.html",
-      "/blog/chitra-srikar-trek/index.html",
-      "/blog/compare-and-contrast-lesson-plan/index.html",
-      "/blog/neurodiversity-parent-perspectives/index.html",
-      "/blog/join-us-as-a-teacher-learner/index.html",
-      "/blog/a-play-about-ambedkar/index.html",
-      "/blog/gandhi-jayanti/index.html",
-      "/blog/ganesha-2023/index.html",
-      "/blog/seeds-go-from-place-to-place/index.html",
-      "/blog/the-power-of-rains-and-streams/index.html",
-      "/blog/visit-to-a-farm-in-a-rain-shadow-area/index.html",
-      "/blog/visit-to-janapada-seva-trust-melukote/index.html",
-      "/blog/a-friend-in-the-neighborhood/index.html",
-      "/blog/education-and-farming/index.html",
-      "/blog/wastewater-management-at-farm-hill/index.html",
-      "/blog/new-kitchen-garden-patch/index.html",
-      "/blog/rains-2019-and-2021/index.html",
-      "/blog/water-harvesting/index.html",
-      "/blog/deva-kanchana/index.html",
-      "/blog/mor-milaga-sundried-salted-chillies/index.html",
-      "/blog/sundried-onion-masala-balls/index.html",
-      "/blog/forest-fire/index.html",
-      "/blog/middle-school-poetry/index.html",
-      "/blog/everyone-is-important/index.html",
-      "/blog/custom-translating-a-book/index.html",
-      "/blog/an-unexpected-bonus/index.html",
-      "/blog/children-in-lockdown/index.html",
-      "/blog/golden-chain-tree/index.html",
-      "/blog/creamy-peacock-flower-tree-white-gulmohar/index.html",
-      "/blog/toad-tussle/index.html"
+      "/philosophy-at-farmhill/make-the-ordinary-come-alive/index.html",
+      "/philosophy-at-farmhill/neurodiversity/index.html",
+      "/philosophy-at-farmhill/rethinking-school-systems/index.html",
+      "/philosophy-at-farmhill/happiness/index.html",
+      "/philosophy-at-farmhill/building-soil/index.html"
     ]
   },
   {
@@ -131,12 +93,51 @@
     ]
   },
   {
-    "listing": "/philosophy-at-farmhill/index.html",
+    "listing": "/blog/index.html",
     "items": [
-      "/philosophy-at-farmhill/neurodiversity/index.html",
-      "/philosophy-at-farmhill/rethinking-school-systems/index.html",
-      "/philosophy-at-farmhill/happiness/index.html",
-      "/philosophy-at-farmhill/building-soil/index.html"
+      "/blog/cycling-with-akhil/index.html",
+      "/blog/chitra-srikar-trek/index.html",
+      "/blog/compare-and-contrast-lesson-plan/index.html",
+      "/blog/neurodiversity-parent-perspectives/index.html",
+      "/blog/join-us-as-a-teacher-learner/index.html",
+      "/blog/a-play-about-ambedkar/index.html",
+      "/blog/gandhi-jayanti/index.html",
+      "/blog/ganesha-2023/index.html",
+      "/blog/seeds-go-from-place-to-place/index.html",
+      "/blog/the-power-of-rains-and-streams/index.html",
+      "/blog/visit-to-a-farm-in-a-rain-shadow-area/index.html",
+      "/blog/visit-to-janapada-seva-trust-melukote/index.html",
+      "/blog/a-friend-in-the-neighborhood/index.html",
+      "/blog/education-and-farming/index.html",
+      "/blog/wastewater-management-at-farm-hill/index.html",
+      "/blog/new-kitchen-garden-patch/index.html",
+      "/blog/rains-2019-and-2021/index.html",
+      "/blog/water-harvesting/index.html",
+      "/blog/deva-kanchana/index.html",
+      "/blog/mor-milaga-sundried-salted-chillies/index.html",
+      "/blog/sundried-onion-masala-balls/index.html",
+      "/blog/forest-fire/index.html",
+      "/blog/middle-school-poetry/index.html",
+      "/blog/everyone-is-important/index.html",
+      "/blog/custom-translating-a-book/index.html",
+      "/blog/an-unexpected-bonus/index.html",
+      "/blog/children-in-lockdown/index.html",
+      "/blog/golden-chain-tree/index.html",
+      "/blog/creamy-peacock-flower-tree-white-gulmohar/index.html",
+      "/blog/toad-tussle/index.html"
     ]
+  },
+  {
+    "listing": "/learning-at-farmhill/index.html",
+    "items": [
+      "/learning-at-farmhill/parijata-cardboard-model-2024-25/index.html",
+      "/learning-at-farmhill/emotional-regulation/index.html",
+      "/learning-at-farmhill/building-2024-25/index.html",
+      "/learning-at-farmhill/flexible-learning-environment-2023/index.html"
+    ]
+  },
+  {
+    "listing": "/people/index.html",
+    "items": []
   }
 ]
