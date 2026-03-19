@@ -8,16 +8,16 @@ subtitle: Celebrating the spirit of Farm Hill Community
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
-![](Koodali%202025%20Invite.jpg){fig-align="left"}
+![](koodali-invite-2026.png){fig-align="left"}
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 
-### Dates: 11th and 12th April 2025
+### Dates: 11th and 12th April 2026
 
 [location](https://maps.app.goo.gl/k1bMSgVcrn2NLexy5) - about 1.5 hr drive from Bangalore. 
 
-Let us know about your visit on this [RSVP form](https://forms.gle/MW55sXhdju2zXzAA6). 
+Let us know about your visit on this [RSVP form](https://forms.gle/c93vqENrVhDQk6q16). 
 
 
 Koodali is the annual gathering of the Farm Hill community - it is the time of the year when all of us come together to celebrate the spirit of the community. 
@@ -41,26 +41,17 @@ Looking forward to see you all!
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
-### Program
 
-#### Friday 11th April 2025
+### **Celebrating Subba - 2pm, 11th April**
 
-Theatre - Plays by Shishu, Kishkindha and Adults **Silambam** Dance **Singing and Drums by Subodha Learning** Songs **Kolattam**
+Subba was our friend, guide and philosopher, and in many ways the inspiration for the Farm Hill community. We will be celebrating his life and legacy in this event. We will be sharing stories, memories and reflections about Subba, and how his teachings and presence have shaped not only our community but also a number of friends. We will also be sharing some of the things that we have learned from Subba, and how we can continue to carry forward his vision and values in our lives and work.
 
-
-#### Saturday 12th April 2025
-
-Shishu Showcase - Restuarant **Life of Buddha - A play** Dance **Panel Discussion - high school** Full School Singing and Drums
-
-### **Celebrating Subba - 2pm, 12th April**
-
-Short workshops/do along demonstrations of Origami, Weaving, Key chain making, stitching cards, 
-Banana fibre work in the afternoon on both days!
+We request all people who have ever known him to come and share their stories and reflections about Subba. 
 
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-![](subba-2025.png)
+![](subba-2026-invite.png)
 :::
 
 :::
@@ -78,15 +69,35 @@ Banana fibre work in the afternoon on both days!
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-![](3.jpg)
+![](2.jpg)
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-![](6.jpg)
+![](3.jpg)
 :::
 
 :::
 :::
+
+::: {.container}
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](7.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](8.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](9.jpg)
+:::
+
+:::
+:::
+
 
 ::: {.container}
 
@@ -101,7 +112,7 @@ Banana fibre work in the afternoon on both days!
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-![](7.jpg)
+![](6.jpg)
 :::
 
 :::
